@@ -40,13 +40,13 @@
 ## Диаграммы
 
 ## AS-IS BPMN
-![AS-IS](as-is.png)
+![AS-IS](artifacts/as-is.png)
 
 ## TO-BE BPMN
-![TO-BE](to-be.png)
+![TO-BE](artifacts/to-be.png)
 
 ## UML State Machine
-![STATE-MACHINE](state-machine.png)
+![STATE-MACHINE](artifacts/state-machine.png)
 
 ## Результаты
 - Выявлены узкие места текущего процесса
